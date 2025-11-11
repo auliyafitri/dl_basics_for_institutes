@@ -1,0 +1,12 @@
+matplotlib
+seaborn
+tqdm
+numpy
+scikit-learn
+torch
+torchvision
+torchsummary
+debugpy
+notebook
+torchinfo
+jupyterlab
