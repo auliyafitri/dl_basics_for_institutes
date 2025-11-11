@@ -2,8 +2,8 @@
 
 
 <h2>List of tutorials:</h2>
-* Introduction
 
+* Introduction
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/main/01_Introduction_Notebook.ipynb)
 * Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/main/02_Regression_Tutorial.ipynb)
