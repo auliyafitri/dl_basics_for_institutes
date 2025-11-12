@@ -1,1 +1,3 @@
 venv
+dls_env
+*.pyc
