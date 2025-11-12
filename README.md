@@ -17,3 +17,10 @@
 All files are taken from https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html and https://github.com/Atcold/pytorch-Deep-Learning
 
 
+````Python
+git clone https://github.com/auliyafitri/dl_basics_for_institutes.git
+cd dl_basics_for_institutes/
+python3 -m venv dls_env
+source dls_env/bin/activate
+pip install -r requirementsv2.txt
+````
