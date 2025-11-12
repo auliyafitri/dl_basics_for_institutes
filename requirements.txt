@@ -10,3 +10,4 @@ debugpy
 notebook
 torchinfo
 jupyterlab
+ipywidgets
