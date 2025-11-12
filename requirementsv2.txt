@@ -1,0 +1,25 @@
+# Core
+setuptools
+wheel
+
+# Scientific / ML stack
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+
+# Jupyter environment
+debugpy
+
+# PyTorch and ecosystem
+torch
+torchvision
+torchtext
+torchsummary
+torchinfo
+torchviz
+
+# NLP and datasets
+datasets==3.6.0
+transformers
