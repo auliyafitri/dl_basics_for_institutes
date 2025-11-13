@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/auliyafitri/deep_learning_basics_pytorch/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/auliyafitri/dl_basics_for_institutes/HEAD)
 
 
 <h2>List of tutorials:</h2>
