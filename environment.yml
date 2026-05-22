@@ -7,11 +7,14 @@ dependencies:
   - pip
   - numpy
   - matplotlib
+  - tqdm
+  - seaborn
   - jupyter
   - jupyterlab
   - pytorch
   - torchvision
   - torchtext
+  - scikit-learn
   - nb_conda_kernels
   - pip:
     - torchviz
