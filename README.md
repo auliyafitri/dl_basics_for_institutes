@@ -8,11 +8,11 @@
 * Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/main/02_Regression_Tutorial.ipynb)
 * Classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/update_contents/03_Classification_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/main/03_Classification_Tutorial.ipynb)
 * Image Classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/update_contents/04_Image_Classification_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/main/04_Image_Classification_Tutorial.ipynb)
 * Variational Autoencoder
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/update_contents/05_VAE_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/auliyafitri/dl_basics_for_institutes/blob/main/05_VAE_Tutorial.ipynb)
 
 
 All files are taken from https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html and https://github.com/Atcold/pytorch-Deep-Learning
