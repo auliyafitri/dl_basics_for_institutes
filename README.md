@@ -21,7 +21,13 @@ All files are taken from https://pytorch.org/tutorials/beginner/deep_learning_60
 ````Python
 git clone https://github.com/auliyafitri/dl_basics_for_institutes.git
 cd dl_basics_for_institutes/
-python3 -m venv dls_env
-source dls_env/bin/activate
-pip install -r requirementsv2.txt
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv init
+uv add setuptools wheel torch torchvision torchtext torchsummary torchinfo torchviz numpy matplotlib seaborn tqdm scikit-learn debugpy ipywidgets jupyterlab datasets transformers
 ````
+
+The, activate the environment and launch the jupyterlab
+```bash
+source .venv/bin/activate
+jupyter lab
+```
